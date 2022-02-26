@@ -2,6 +2,7 @@
 
 | Month        |        | Meeting Presenters  |   Topic                      |                      Content                                   |  |
 |--------------|--------|-------------|-------------------------|---------------------------------------------------------|--|
+| 2020         |        |             |                         |                                                         |  |
 | January      | 13     |   Bradly    | 2019 Recap and Planning |	[YouTube](https://www.youtube.com/watch?v=6vHxIQdBf7I)	|  |
 |	       | 20	|   Susan     | Hydraulic Fracturing of Embryos |	[YouTube](https://youtu.be/qx6rrNGyagc)	        |  |
 |	       |  20	| Susan	      | Hydraulic Fracturing of Embryos |	[YouTube](https://youtu.be/qx6rrNGyagc)	        |  |
