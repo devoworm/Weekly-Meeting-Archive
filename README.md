@@ -7,23 +7,15 @@
 |	       |  20	| Susan	      | Hydraulic Fracturing of Embryos |	[YouTube](https://youtu.be/qx6rrNGyagc)	        |  |
 |	       | 27	| Devansh and Yash |	DL Architectures          | [YouTube](https://www.youtube.com/watch?v=E71-1tQ-iDU) 	|   |
 | February     |3	| Ujjwal      |	DNA Fingerprinting      | [YouTube](https://www.youtube.com/watch?v=GcdgBs14kD8)        |  |	
+|              |10      | Assorted    |	New Papers, Ideas       | [YouTube](https://youtu.be/2RnNuewB8C0)                       |  |
+|              |17	| Richard     |	Diatom Movement         | [YouTube](https://youtu.be/SCKce5AKAeI)                       |  |
+|              |24      | Tom Portegys|	Bio-inspired Modeling   | [YouTube](https://youtu.be/cqMaOPXywNk)                       |  |
+| March        | 2	| Bradly/Jesse|	Open Data Day/Free Energy Principle | [YouTube](https://youtu.be/LIJxfOaz8to)           |  |	
+|              | 9	| Bradly      |	Recap of Open Ideas                 | [YouTube](https://www.youtube.com/watch?v=RfRNQY753Ys) |  |
+|              | 16	| George Mikhailovsky |	Structuredness and Entropy  | [YouTube](https://youtu.be/HHnysBSY79Q)           |  |
+|              | 23     | Bradly/Ujjwal | Tunicate Development/CC3D Update  | [YouTube](https://youtu.be/kJ31qA8vwLI)           |  |
+|              | 30     | Neuromatch 1.0	|               |  [YouTube](https://neuromatch.io/, https://www.crowdcast.io/e/neuromatch) |  |
 
-
-
-
-
-
-
-
-
-	10	Assorted	New Papers, Ideas	https://youtu.be/2RnNuewB8C0	
-	17	Richard	Diatom Movement	https://youtu.be/SCKce5AKAeI	
-	24	Tom Portegys	Bio-inspired Modeling	https://youtu.be/cqMaOPXywNk	
-March	2	Bradly/Jesse	Open Data Day/Free Energy Principle	https://youtu.be/LIJxfOaz8to	
-	9	Bradly	Recap of Open Ideas	https://www.youtube.com/watch?v=RfRNQY753Ys	
-	16	George Mikhailovsky	Structuredness and Entropy	https://youtu.be/HHnysBSY79Q	
-	23	Bradly/Ujjwal	Tunicate Development/CC3D Update	https://youtu.be/kJ31qA8vwLI	
-	30	Neuromatch 1.0		https://neuromatch.io/, https://www.crowdcast.io/e/neuromatch	
 
 
 
