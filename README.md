@@ -14,7 +14,7 @@
 |              | 9	| Bradly      |	Recap of Open Ideas                 | [YouTube](https://www.youtube.com/watch?v=RfRNQY753Ys) |  |
 |              | 16	| George Mikhailovsky |	Structuredness and Entropy  | [YouTube](https://youtu.be/HHnysBSY79Q)           |  |
 |              | 23     | Bradly/Ujjwal | Tunicate Development/CC3D Update  | [YouTube](https://youtu.be/kJ31qA8vwLI)           |  |
-|              | 30     | Neuromatch 1.0	|               |  [YouTube](https://neuromatch.io/, https://www.crowdcast.io/e/neuromatch) |  |
+|              | 30     | [Neuromatch 1.0](https://neuromatch.io/)	|               |  [YouTube](https://www.crowdcast.io/e/neuromatch) |  |
 
 
 
