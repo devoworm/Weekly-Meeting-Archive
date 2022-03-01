@@ -15,32 +15,29 @@
 |              | 9	| Bradly      |	Recap of Open Ideas                 | [YouTube](https://www.youtube.com/watch?v=RfRNQY753Ys) |  |
 |              | 16	| George Mikhailovsky |	Structuredness and Entropy  | [YouTube](https://youtu.be/HHnysBSY79Q)           |  |
 |              | 23     | Bradly/Ujjwal | Tunicate Development/CC3D Update  | [YouTube](https://youtu.be/kJ31qA8vwLI)           |  |
-|              | 30     | [Neuromatch 1.0](https://neuromatch.io/)	|               |  [YouTube](https://www.crowdcast.io/e/neuromatch) |  |
+|              | 30     |               | [Neuromatch 1.0](https://neuromatch.io/)	|  [YouTube](https://www.crowdcast.io/e/neuromatch) |  |
+| April	       | 6	| Ujjwal/Bradly	| EfficientNet/Axolotl Data Review/Education Stack |	[YouTube](https://www.youtube.com/watch?v=_nbtU9DBfCk&feature=youtu.be) |  |
+|              | 13	| Ujjwal/Bradly | Task Review, Mikhailovsky and Gordon, OpenDevoCell | [YouTube](https://youtu.be/bxHAlUEk3LE) |  |	
+|	       | 20	| Bradly        | Developmental Papers, open discussion  | [YouTube](https://www.youtube.com/watch?v=sAX0aiTjGPs&feature=youtu.be) |  |	
+|	       | 27	| Ujjwal/Bradly/Richard | Update on 3-D modeling, Education and Task Reviews |	[YouTube](https://youtu.be/aXW5myiJf20) |   |	
+| May          |  4	| Bradly/Richard  |	Virtual Worm presentation, Triangular Life   |	[YouTube](https://www.youtube.com/watch?v=mq_HfqGZor8) |  |	
+|              | 11	| GSoC Students (Ujjwal, Mayukh) | Welcome and Summer Overview   | [YouTube](h  ttps://youtu.be/z2MrfyR0XSE) |   |
+|              | 18	| Bradly/Jesse/Mayukh   | Project task review, GSoC Update   |	[YouTube](https://youtu.be/lWE_JpTSzyE) |   |
+|              | 25	|                       | [Neuromatch 2.0](https://neuromatch.io/) | [Crowdcast](https://www.crowdcast.io/e/neuromatch)	|   |
+| June         |  1     | GSoC Updates, Bradly	| Issues review, Assorted Developmental Bio | [YouTube](https://www.youtube.com/watch?v=-ipwUCD_c0M) |   |	
+|              |  8	| GSoC Updates, Bradly  | General Biological Models, Euler Paths for Life | [YouTube](https://www.youtube.com/watch?v=imK3boVcvfY) |  |	
+|	       | 13	| Bradly                | Guided tour of DevoWorm (circa June 2020)	| [YouTube](https://www.youtube.com/watch?v=a4Ng7O-8LJE) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1271675788350361601) |
+|              | 15     | GSoC Updates, Bradly  | Beak/Wing shape models; Periodicity in the Embryo | [YouTube](https://www.youtube.com/watch?v=XMnYt_GsYLg) |   |	
+|	       | 22	|                       | [SIPS 2020](https://www.improvingpsych.org/SIPS2020/) |     |    |	
+|  	       | 29     | GSoC Updates, Bradly  | Issues review, Dev-inspired Unsupervised Learning     | [YouTube](https://www.youtube.com/watch?v=qKpr-AzNuj8) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1276917934544257025) |
+| July         |  6	| GSoC Updates, Bradly	| TDA for Developmental Bio                             | [YouTube](https://www.youtube.com/watch?v=JhX97OQ8Zfg) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1280174869334888449) |
+|	       | 13	| GSoC Updates, Jesse, Krishna | Assorted topics                                | [YouTube](https://www.youtube.com/watch?v=Oo9HjfGihio) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1282741394457669634) |
+|	       | 20	| GSoC Updates, Bradly, Susan  | Embryo Periodicity                             | [YouTube](https://www.youtube.com/watch?v=NMXX5qPSxYY) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1285249311987716099) |
+|	       | 27     | GSoC Updates, Bradly	       | 3-D Cell Culture, Mesoscale Modeling           | [YouTube](https://www.youtube.com/watch?v=pg3v-5hJPDY) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1287774926267613187) |
+| August       |  3	| Mayukh, Bradly, Susan	       | EmbryoGANs and Axolotl image representation	| [YouTube](https://www.youtube.com/watch?v=GnecVZ1v4P4) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1291427729083117568) |
+|	       | 10	| Mayukh, Ujjwal, Bradly, Susan | Embryo networks, Bacillaria cognition, Chaos  | [YouTube](https://www.youtube.com/watch?v=6LzEtM22JI8) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1292863756599537666) |
 
-
-
-
-April	6	Ujjwal/Bradly	EfficientNet/Axolotl Data Review/Education Stack	https://www.youtube.com/watch?v=_nbtU9DBfCk&feature=youtu.be	
-	13	Ujjwal/Bradly	Task Review, Mikhailovsky and Gordon, OpenDevoCell	https://youtu.be/bxHAlUEk3LE	
-	20	Bradly	Developmental Papers, open discussion	https://www.youtube.com/watch?v=sAX0aiTjGPs&feature=youtu.be	
-	27	Ujjwal/Bradly/Richard	Update on 3-D modeling, Education and Task Reviews	https://youtu.be/aXW5myiJf20	
-May	4	Bradly/Richard	Virtual Worm presentation, Triangular Life	https://www.youtube.com/watch?v=mq_HfqGZor8&t=1s	
-	11	GSoC Students (Ujjwal, Mayukh)	Welcome and Summer Overview	https://youtu.be/z2MrfyR0XSE	
-	18	Bradly/Jesse/Mayukh	Project task review, GSoC Update	https://youtu.be/lWE_JpTSzyE	
-	25	Neuromatch 2.0		https://neuromatch.io/, https://www.crowdcast.io/e/neuromatch	
-June	1	GSoC Updates, Bradly	Issues review, Assorted Developmental Bio	https://www.youtube.com/watch?v=-ipwUCD_c0M&t=11s	
-	8	GSoC Updates, Bradly	General Biological Models, Euler Paths for Life	https://www.youtube.com/watch?v=imK3boVcvfY&t=20s	
-	13	Bradly	Guided tour of DevoWorm (circa June 2020)	https://www.youtube.com/watch?v=a4Ng7O-8LJE	https://twitter.com/Orthogonal_Lab/status/1271675788350361601
-	15	GSoC Updates, Bradly	Beak/Wing shape models; Periodicity in the Embryo	https://www.youtube.com/watch?v=XMnYt_GsYLg&t=1s	
-	22	SIPS 2020		https://www.improvingpsych.org/SIPS2020/	
-	29	GSoC Updates, Bradly	Issues review, Dev-inspired Unsupervised Learning 	https://www.youtube.com/watch?v=qKpr-AzNuj8&t=3s	https://twitter.com/Orthogonal_Lab/status/1276917934544257025
-July	6	GSoC Updates, Bradly	TDA for Developmental Bio	https://www.youtube.com/watch?v=JhX97OQ8Zfg	https://twitter.com/Orthogonal_Lab/status/1280174869334888449
-	13	GSoC Updates, Jesse, Krishna	Assorted topics	https://www.youtube.com/watch?v=Oo9HjfGihio	https://twitter.com/Orthogonal_Lab/status/1282741394457669634
-	20	GSoC Updates, Bradly, Susan	Embryo Periodicity	https://www.youtube.com/watch?v=NMXX5qPSxYY&t=2s	https://twitter.com/Orthogonal_Lab/status/1285249311987716099
-	27	GSoC Updates, Bradly	3-D Cell Culture, Mesoscale Modeling	https://www.youtube.com/watch?v=pg3v-5hJPDY	https://twitter.com/Orthogonal_Lab/status/1287774926267613187
-August	3	Mayukh, Bradly, Susan	EmbryoGANs and Axolotl image representation	https://www.youtube.com/watch?v=GnecVZ1v4P4&t=21s	https://twitter.com/Orthogonal_Lab/status/1291427729083117568
-	10	Mayukh, Ujjwal, Bradly, Susan	Embryo networks, Bacillaria cognition, Chaos	https://www.youtube.com/watch?v=6LzEtM22JI8&t=3s	https://twitter.com/Orthogonal_Lab/status/1292863756599537666
-	17	GSoC Updates, Bradly, Susan	Chaos and Diffusion-limited Aggregation, DevoLearn	https://www.youtube.com/watch?v=WPPwvSjA0pE	https://twitter.com/Orthogonal_Lab/status/1295423190987137030
+        17	GSoC Updates, Bradly, Susan	Chaos and Diffusion-limited Aggregation, DevoLearn	https://www.youtube.com/watch?v=WPPwvSjA0pE	https://twitter.com/Orthogonal_Lab/status/1295423190987137030
 	24	Bradly, Richard, GSoC Updates	Laplacian Embryo, DevoLearn	https://www.youtube.com/watch?v=OvTVhuzANP0&t=1688s	https://twitter.com/Orthogonal_Lab/status/1297941964508340225
 	31	Bradly, Susan, Ujjwal, Mayukh	GSoC Final Presentations, Agent-based Modeling	https://www.youtube.com/watch?v=tM7rwLgK5Bg&t=2s	https://twitter.com/Orthogonal_Lab/status/1300475950325473280
 September	7	Bradly, Richard	Follow-up on Summer Projects	https://www.youtube.com/watch?v=o0nHCfCWVwM	https://twitter.com/Orthogonal_Lab/status/1303042405344649217
