@@ -21,7 +21,7 @@
 |	       | 20	| Bradly        | Developmental Papers, open discussion  | [YouTube](https://www.youtube.com/watch?v=sAX0aiTjGPs&feature=youtu.be) |  |	
 |	       | 27	| Ujjwal/Bradly/Richard | Update on 3-D modeling, Education and Task Reviews |	[YouTube](https://youtu.be/aXW5myiJf20) |   |	
 | May          |  4	| Bradly/Richard  |	Virtual Worm presentation, Triangular Life   |	[YouTube](https://www.youtube.com/watch?v=mq_HfqGZor8) |  |	
-|              | 11	| GSoC Students (Ujjwal, Mayukh) | Welcome and Summer Overview   | [YouTube](h  ttps://youtu.be/z2MrfyR0XSE) |   |
+|              | 11	| GSoC Students (Ujjwal, Mayukh) | Welcome and Summer Overview   | [YouTube](https://youtu.be/z2MrfyR0XSE) |   |
 |              | 18	| Bradly/Jesse/Mayukh   | Project task review, GSoC Update   |	[YouTube](https://youtu.be/lWE_JpTSzyE) |   |
 |              | 25	|                       | [Neuromatch 2.0](https://neuromatch.io/) | [Crowdcast](https://www.crowdcast.io/e/neuromatch)	|   |
 | June         |  1     | GSoC Updates, Bradly	| Issues review, Assorted Developmental Bio | [YouTube](https://www.youtube.com/watch?v=-ipwUCD_c0M) |   |	
@@ -37,28 +37,29 @@
 | August       |  3	| Mayukh, Bradly, Susan	       | EmbryoGANs and Axolotl image representation	| [YouTube](https://www.youtube.com/watch?v=GnecVZ1v4P4) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1291427729083117568) |
 |	       | 10	| Mayukh, Ujjwal, Bradly, Susan | Embryo networks, Bacillaria cognition, Chaos  | [YouTube](https://www.youtube.com/watch?v=6LzEtM22JI8) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1292863756599537666) |
 
-        17	GSoC Updates, Bradly, Susan	Chaos and Diffusion-limited Aggregation, DevoLearn	https://www.youtube.com/watch?v=WPPwvSjA0pE	https://twitter.com/Orthogonal_Lab/status/1295423190987137030
-	24	Bradly, Richard, GSoC Updates	Laplacian Embryo, DevoLearn	https://www.youtube.com/watch?v=OvTVhuzANP0&t=1688s	https://twitter.com/Orthogonal_Lab/status/1297941964508340225
-	31	Bradly, Susan, Ujjwal, Mayukh	GSoC Final Presentations, Agent-based Modeling	https://www.youtube.com/watch?v=tM7rwLgK5Bg&t=2s	https://twitter.com/Orthogonal_Lab/status/1300475950325473280
-September	7	Bradly, Richard	Follow-up on Summer Projects	https://www.youtube.com/watch?v=o0nHCfCWVwM	https://twitter.com/Orthogonal_Lab/status/1303042405344649217
-	14	Bradly	Community-building, Growth, Form, and Theory	https://youtu.be/RpdGOXHvjIM	https://twitter.com/Orthogonal_Lab/status/1305532980081971201
-	21	Break			
-	28	Bradly, Susan	OpenWorm Annual Meeting prep, Microscopy	https://www.youtube.com/watch?v=SxyZ8fEgo7Q&t=5s	https://twitter.com/Orthogonal_Lab/status/1310660415010074624
-October	5	Bradly, Dick	Hacktoberfest, Multidimensional Analysis	https://www.youtube.com/watch?v=aR3YyP8U2bI&t=25s	https://twitter.com/Orthogonal_Lab/status/1313167243308666880
-	12	Susan, Krishna	Assorted, Cells in Microgravity	https://www.youtube.com/watch?v=w0midXMAWfk&t=1127s	https://twitter.com/Orthogonal_Lab/status/1315700299064053762
-	19	ASAPBio Preprints		https://www.youtube.com/watch?v=3vscxY-4i4A&t=433s	http://syntheticdaisies.blogspot.com/2020/10/asapbio-session-on-past-present-and.html
-	26	Neuromatch 3.0		https://neuromatch.io/, https://www.youtube.com/channel/UCcBKrxkfNv04R9PXLovjf5w	http://syntheticdaisies.blogspot.com/2020/11/presentations-at-nm3.html
-November	2	Bradly	Non-neuronal Cognition, Deep Learning and Cell Division	https://www.youtube.com/watch?v=T54n_OBcDcA&t=8s	https://twitter.com/Orthogonal_Lab/status/1323384096064786433
-	9	Bradly	Notetaking Strategies, Cell-type Dependent Morphogenesis and Connectomics	https://www.youtube.com/watch?v=r1DQcnTgmB0&t=6s	https://twitter.com/Orthogonal_Lab/status/1325875439311708168
-	16	Bradly, Krishna	General Biological ML Model, Development of Brains and Meaning 	https://www.youtube.com/watch?v=biKO696VxiQ&t=1s	https://twitter.com/Orthogonal_Lab/status/1328413478751793159
-	23	Susan, Mayukh	Elastography/Gigapixels, DevoL Paper/Torch Dreams, Interactions/Agency	https://www.youtube.com/watch?v=5svPqXv6fZ4&t=2s	https://twitter.com/Orthogonal_Lab/status/1330930853367648258
-	30	Bradly, Krishna	Computational Pareidolia, Temporal Scaling, and Deep Neural Control	https://www.youtube.com/watch?v=UmFChuKPs5E	https://twitter.com/Orthogonal_Lab/status/1333466317265911808
-December	7	NeurIPS		https://nips.cc/virtual/2020/public/	
-	14	Bradly	Input Data, Physics of Cell Temporality	https://www.youtube.com/watch?v=zuvJfszId4E&feature=emb_logo	https://twitter.com/Orthogonal_Lab/status/1338708996992233473
-	21	Bradly, Dick, Ujjwal	Physics, Embryos, and Evolution; DevoLearn	https://youtu.be/3Xb6gl5CtYg	https://twitter.com/Orthogonal_Lab/status/1341069445737922561
-	28	Happy Holidays!			
-2021					
-January	4	Happy Holidays!			
+|              | 17	| GSoC Updates, Bradly, Susan	| Chaos and Diffusion-limited Aggregation, DevoLearn | [YouTube](https://www.youtube.com/watch?v=WPPwvSjA0pE) |	[Twitter](https://twitter.com/Orthogonal_Lab/status/1295423190987137030) |
+|	       | 24	| Bradly, Richard, GSoC Updates	| Laplacian Embryo, DevoLearn     | [YouTube](https://www.youtube.com/watch?v=OvTVhuzANP0) |	[Twitter](https://twitter.com/Orthogonal_Lab/status/1297941964508340225) |
+|	       | 31	| Bradly, Susan, Ujjwal, Mayukh	 | GSoC Final Presentations, Agent-based Modeling | [YouTube](https://www.youtube.com/watch?v=tM7rwLgK5Bg) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1300475950325473280) |
+| September    |  7	| Bradly, Richard                | Follow-up on Summer Projects	  | [YouTube](https://www.youtube.com/watch?v=o0nHCfCWVwM) | [Twitter](	https://twitter.com/Orthogonal_Lab/status/1303042405344649217) |
+|	       | 14     | Bradly	                 | Community-building, Growth, Form, and Theory | [YouTube](https://youtu.be/RpdGOXHvjIM) | [Twitter](	https://twitter.com/Orthogonal_Lab/status/1305532980081971201) |
+|              | 21	|                                | Break			|    |    |
+|	       | 28	| Bradly, Susan	                 | OpenWorm Annual Meeting prep, Microscopy | [YouTube](https://www.youtube.com/watch?v=SxyZ8fEgo7Q) |	[Twitter](https://twitter.com/Orthogonal_Lab/status/1310660415010074624) |
+| October      |  5	| Bradly, Dick	                 | Hacktoberfest, Multidimensional Analysis | [YouTube](https://www.youtube.com/watch?v=aR3YyP8U2bI) |	[Twitter](https://twitter.com/Orthogonal_Lab/status/1313167243308666880) |
+|              | 12     | Susan, Krishna	         | Assorted, Cells in Microgravity	    | [YouTube](https://www.youtube.com/watch?v=w0midXMAWfk) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1315700299064053762) |
+|              | 19	|                                | ASAPBio Preprints                        | [YouTube](https://www.youtube.com/watch?v=3vscxY-4i4A) |	[Synthetic Daisies](http://syntheticdaisies.blogspot.com/2020/10/asapbio-session-on-past-present-and.html) |
+|	       | 26	|                                | [Neuromatch 3.0](https://neuromatch.io/) | [YouTube](https://www.youtube.com/channel/UCcBKrxkfNv04R9PXLovjf5w) | [Synthetic Daisies](http://syntheticdaisies.blogspot.com/2020/11/presentations-at-nm3.html) |
+| November     |  2	| Bradly                         | Non-neuronal Cognition, Deep Learning and Cell Division | [YouTube](https://www.youtube.com/watch?v=T54n_OBcDcA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1323384096064786433) |
+|	       |  9	| Bradly	                 | Notetaking Strategies, Cell-type Dependent Morphogenesis and Connectomics | [YouTube](https://www.youtube.com/watch?v=r1DQcnTgmB0) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1325875439311708168) |
+|	       | 16	| Bradly, Krishna     | General Biological ML Model, Development of Brains and Meaning | [YouTube](https://www.youtube.com/watch?v=biKO696VxiQ] | [Twitter](https://twitter.com/Orthogonal_Lab/status/1328413478751793159) |
+|              | 23	| Susan, Mayukh	      | Elastography/Gigapixels, DevoL Paper/Torch Dreams, Interactions/Agency | [YouTube](https://www.youtube.com/watch?v=5svPqXv6fZ4) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1330930853367648258) |
+|	       | 30	| Bradly, Krishna     | Computational Pareidolia, Temporal Scaling, and Deep Neural Control | [YouTube](https://www.youtube.com/watch?v=UmFChuKPs5E) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1333466317265911808) |
+| December     |  7	|                     | [NeurIPS](https://nips.cc/virtual/2020/public/) |   |   |	
+| 	       | 14	| Bradly	      | Input Data, Physics of Cell Temporality	 | [YouTube](https://www.youtube.com/watch?v=zuvJfszId4E&feature=emb_logo) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1338708996992233473) |
+|              | 21	| Bradly, Dick, Ujjwal | Physics, Embryos, and Evolution; DevoLearn | [YouTube](https://youtu.be/3Xb6gl5CtYg) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1341069445737922561) |
+|	       | 28	|                      | Happy Holidays!                          |     |     |			
+| 2021	       |        |                      |                                          |     |     |				
+| January      |  4	|                      | Happy Holidays!                          |	|     |
+
 	11	Bradly, Susan	2020 Review, GSoC 2021 planning, and First Embryos/Molecular Condensates 	https://www.youtube.com/watch?v=6Egcm1R7Vb4&feature=emb_logo	https://twitter.com/Orthogonal_Lab/status/1348687359227924487
 	18	Bradly, Susan, Krishna	2021 Submission Planning, Devo-ML, Physics and Geometry of Life	https://www.youtube.com/watch?v=apBgojl_3SI&feature=youtu.be	https://twitter.com/Orthogonal_Lab/status/1351223218170974215
 	25	Bradly, Krishna	Project board review, Evolutionary Theory and Deep Evolutionary History	https://youtu.be/QX_hZbJRDaY	https://twitter.com/Orthogonal_Lab/status/1353794360719122433
