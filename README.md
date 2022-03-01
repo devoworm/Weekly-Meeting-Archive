@@ -36,7 +36,6 @@
 |	       | 27     | GSoC Updates, Bradly	       | 3-D Cell Culture, Mesoscale Modeling           | [YouTube](https://www.youtube.com/watch?v=pg3v-5hJPDY) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1287774926267613187) |
 | August       |  3	| Mayukh, Bradly, Susan	       | EmbryoGANs and Axolotl image representation	| [YouTube](https://www.youtube.com/watch?v=GnecVZ1v4P4) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1291427729083117568) |
 |	       | 10	| Mayukh, Ujjwal, Bradly, Susan | Embryo networks, Bacillaria cognition, Chaos  | [YouTube](https://www.youtube.com/watch?v=6LzEtM22JI8) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1292863756599537666) |
-
 |              | 17	| GSoC Updates, Bradly, Susan	| Chaos and Diffusion-limited Aggregation, DevoLearn | [YouTube](https://www.youtube.com/watch?v=WPPwvSjA0pE) |	[Twitter](https://twitter.com/Orthogonal_Lab/status/1295423190987137030) |
 |	       | 24	| Bradly, Richard, GSoC Updates	| Laplacian Embryo, DevoLearn     | [YouTube](https://www.youtube.com/watch?v=OvTVhuzANP0) |	[Twitter](https://twitter.com/Orthogonal_Lab/status/1297941964508340225) |
 |	       | 31	| Bradly, Susan, Ujjwal, Mayukh	 | GSoC Final Presentations, Agent-based Modeling | [YouTube](https://www.youtube.com/watch?v=tM7rwLgK5Bg) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1300475950325473280) |
