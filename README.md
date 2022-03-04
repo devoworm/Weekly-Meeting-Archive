@@ -93,28 +93,27 @@
 |	        | 23	| Bradly, Mainak, Akshay       | DevoLearn, Digital Shape/Geometry, LCB III, Pathways, Ethomorphogenesis | [YouTube](https://www.youtube.com/watch?v=ib0c7szk86g) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1429909668932030471 |
 |	        | 30	| Bradly	               | DZ-DL Review, Bacillaria Aneural Cognition, Differential Morphogenesis |	[YouTube](https://www.youtube.com/watch?v=YBfO7RT2Y7Y) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1432418382272421894) |
 | September 	|  6	|                              | Labor Day                  |    |     |
-
-	13	Bradly	Hacktoberfest, Roles and Opportunities, Criticality and Morphogenesis	https://www.youtube.com/watch?v=HvDrRSoRYtA	https://twitter.com/Orthogonal_Lab/status/1437893383607963649
-	20	Bradly	Digital Bacillaria Roadmap, Model Organism Zoo, Connectome/Projectome	https://www.youtube.com/watch?v=SGqO4B8UHAk	https://twitter.com/Orthogonal_Lab/status/1440036283217154050
-	27	Bradly	Hacktoberfest, 2021 annual update, Complex Systems and Cell Projections	https://www.youtube.com/watch?v=H5wrUFJV-oA	https://twitter.com/Orthogonal_Lab/status/1442526267555794947
-October 	4	Bradly	Hacktoberfest, Oct4 Day, Zebrafish Animations, Marine Invertebrates	https://www.youtube.com/watch?v=ggbTR5snXTY	----
-	11	Bradly, Tharun, Ujjwal	Diatom Hacktoberfest, Deep Sets/Neural Processes, Neurointeractome	https://www.youtube.com/watch?v=aEfZxGPsIgw	https://twitter.com/Orthogonal_Lab/status/1447638802139422730
-	18	Bradly	Hacktoberfest, Planarian Body Plan Network, Regulatory Networks	https://www.youtube.com/watch?v=8I4L0rlq7oc	https://twitter.com/Orthogonal_Lab/status/1450192893310869508
-	25	Bradly	Segmenting Diatoms, Topological Analysis, Aspects of Morphogenesis	https://www.youtube.com/watch?v=iDP6k_uf4nc	https://twitter.com/Orthogonal_Lab/status/1452693977040314378
-November	1	Bradly, Dick	Diatom Model of Directional Movement, Morphogenesis and Models	https://www.youtube.com/watch?v=GWZuUQPHDNo	https://twitter.com/Orthogonal_Lab/status/1455414152520998913
-	8	Bradly, Dick	Diatom Modeling, Cellular Automata, Embryonic Movements	https://www.youtube.com/watch?v=zX0tlsnkHRU	https://twitter.com/Orthogonal_Lab/status/1458174697087148041
-	15	Bradly, Dick	Diatom Modeling II, Turing Morphogenesis, Development Genetical-physics	https://www.youtube.com/watch?v=GokjJ6jZiw4	https://twitter.com/Orthogonal_Lab/status/1463010500497879040
-	22	Susan, Bradly	Diatom Modeling III, Tissue Physics, Mutational Diversity	https://www.youtube.com/watch?v=1FKqzc9Dndc	https://twitter.com/Orthogonal_Lab/status/1463009046815035392
-	29	MAIN, NM4			
-December	6	Karan, Bradly	Microscopy Image Analysis, Diatom Patterning, Cambrian Development	https://www.youtube.com/watch?v=mP-Xs4oUfLY	https://twitter.com/Orthogonal_Lab/status/1467922359579553792
-	13	Susan, Bradly	Soft Active Materials, Liquid Crystal Bio III, Biological Intelligence	https://www.youtube.com/watch?v=A_YwaTYuLck	https://twitter.com/Orthogonal_Lab/status/1470654288007421955
-	20	Happy Holidays			
-	27	Happy Holidays			
-2022					
-January	3	Happy Holidays			
-	10	Bradly	Looking forward, Lab Preprints, 3-D microscopy, and Soft Biomaterials	https://www.youtube.com/watch?v=R3u8enisFzI	https://twitter.com/Orthogonal_Lab/status/1480661062471069699
-	17	Tom, Bradly, Dick	Life to the Stars, 1-D Ising models and Mollusk shells, Stochastic Bio	https://www.youtube.com/watch?v=GYXXk2zUdy8	https://twitter.com/Orthogonal_Lab/status/1483168115924025349
-	24	Mainak, Karan, Bradly	Archaea Shapes, Transformers for Bio, Crumpled Biology, Dinosaur Embryos	https://www.youtube.com/watch?v=SIi75jkYc28	https://twitter.com/Orthogonal_Lab/status/1485707719415848966
-	31	Susan, Mainak, Bradly	Tensegrity in cells, Sea Urchin and Neural CAs, Fitness Landscapes	https://www.youtube.com/watch?v=O0125O5J3RI	https://twitter.com/Orthogonal_Lab/status/1488216893462831105
-February	7	Bradly	Hypergraphs for Developmental Phenotypes, Cybernetics and Population Genetics of Daisyworld	https://www.youtube.com/watch?v=mjdh72XSC-o	https://twitter.com/Orthogonal_Lab/status/1490769103195455489
-	14	No Meeting			
+|              |  13	| Bradly                       | Hacktoberfest, Roles and Opportunities, Criticality and Morphogenesis | [YouTube](https://www.youtube.com/watch?v=HvDrRSoRYtA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1437893383607963649) |
+|              |  20	| Bradly	               | Digital Bacillaria Roadmap, Model Organism Zoo, Connectome/Projectome | [YouTube](https://www.youtube.com/watch?v=SGqO4B8UHAk) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1440036283217154050) |
+|	       |  27	| Bradly	               | Hacktoberfest, 2021 annual update, Complex Systems and Cell Projections | [YouTube](https://www.youtube.com/watch?v=H5wrUFJV-oA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1442526267555794947) |
+| October      |   4	| Bradly	               | Hacktoberfest, Oct4 Day, Zebrafish Animations, Marine Invertebrates |	[YouTube](https://www.youtube.com/watch?v=ggbTR5snXTY) |      |
+|	       |  11	| Bradly, Tharun, Ujjwal       | Diatom Hacktoberfest, Deep Sets/Neural Processes, Neurointeractome |	[YouTube](https://www.youtube.com/watch?v=aEfZxGPsIgw) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1447638802139422730) |
+|	       |  18	| Bradly                       | Hacktoberfest, Planarian Body Plan Network, Regulatory Networks    |	[YouTube](https://www.youtube.com/watch?v=8I4L0rlq7oc) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1450192893310869508) |
+|	       |  25	| Bradly	               | Segmenting Diatoms, Topological Analysis, Aspects of Morphogenesis |	[YouTube](https://www.youtube.com/watch?v=iDP6k_uf4nc) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1452693977040314378) |
+| November     |   1	| Bradly, Dick                 | Diatom Model of Directional Movement, Morphogenesis and Models | [YouTube](https://www.youtube.com/watch?v=GWZuUQPHDNo) | {Twitter](https://twitter.com/Orthogonal_Lab/status/1455414152520998913) |
+|	       |   8	| Bradly, Dick                 | Diatom Modeling, Cellular Automata, Embryonic Movements        | [YouTube](https://www.youtube.com/watch?v=zX0tlsnkHRU) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1458174697087148041) |
+|	       |  15	| Bradly, Dick                 | Diatom Modeling II, Turing Morphogenesis, Development Genetical-physics | [YouTube](https://www.youtube.com/watch?v=GokjJ6jZiw4) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1463010500497879040) |
+|	       |  22	| Susan, Bradly                | Diatom Modeling III, Tissue Physics, Mutational Diversity | [YouTube](https://www.youtube.com/watch?v=1FKqzc9Dndc) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1463009046815035392) |
+|	       |  29	|                              | MAIN, NM4                                                 |     |      |			
+| December     |   6	| Karan, Bradly	               | Microscopy Image Analysis, Diatom Patterning, Cambrian Development | [YouTube](https://www.youtube.com/watch?v=mP-Xs4oUfLY) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1467922359579553792) |
+|	       |  13	| Susan, Bradly	               | Soft Active Materials, Liquid Crystal Bio III, Biological Intelligence	| [YouTube](https://www.youtube.com/watch?v=A_YwaTYuLck) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1470654288007421955) |
+|	       |  20	|                              | Happy Holidays!	       |                  |          |        		
+|	       |  27	|                              | Happy Holidays!	       |                  |          |		
+| 2022	       |	|                              |                               |                  |          |		
+| January      |   3	|                              | Happy Holidays!               |                  |          |			
+|              |  10	| Bradly	               | Looking forward, Lab Preprints, 3-D microscopy, and Soft Biomaterials | [YouTube](https://www.youtube.com/watch?v=R3u8enisFzI) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1480661062471069699) |
+|	       |  17	| Tom, Bradly, Dick	       | Life to the Stars, 1-D Ising models and Mollusk shells, Stochastic Bio	 | [YouTube](https://www.youtube.com/watch?v=GYXXk2zUdy8) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1483168115924025349) |
+|	       |  24	| Mainak, Karan, Bradly	       | Archaea Shapes, Transformers for Bio, Crumpled Biology, Dinosaur Embryos | [YouTube](https://www.youtube.com/watch?v=SIi75jkYc28) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1485707719415848966) |
+| 	       |  31	| Susan, Mainak, Bradly	       | Tensegrity in cells, Sea Urchin and Neural CAs, Fitness Landscapes | [YouTube](https://www.youtube.com/watch?v=O0125O5J3RI) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1488216893462831105) |
+| February     |   7	| Bradly	               | Hypergraphs for Developmental Phenotypes, Cybernetics and Population Genetics of Daisyworld |	[YouTube](https://www.youtube.com/watch?v=mjdh72XSC-o) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1490769103195455489) |
+|	       |  14	|                              | No Meeting                       |            |                   |			
