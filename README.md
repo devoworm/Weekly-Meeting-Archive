@@ -5,7 +5,6 @@
 | 2020         |        |             |                         |                                                         |  |
 | January      | 13     |   Bradly    | 2019 Recap and Planning |	[YouTube](https://www.youtube.com/watch?v=6vHxIQdBf7I)	|  |
 |	       | 20	|   Susan     | Hydraulic Fracturing of Embryos |	[YouTube](https://youtu.be/qx6rrNGyagc)	        |  |
-|	       |  20	| Susan	      | Hydraulic Fracturing of Embryos |	[YouTube](https://youtu.be/qx6rrNGyagc)	        |  |
 |	       | 27	| Devansh and Yash |	DL Architectures          | [YouTube](https://www.youtube.com/watch?v=E71-1tQ-iDU) 	|   |
 | February     |3	| Ujjwal      |	DNA Fingerprinting      | [YouTube](https://www.youtube.com/watch?v=GcdgBs14kD8)        |  |	
 |              |10      | Assorted    |	New Papers, Ideas       | [YouTube](https://youtu.be/2RnNuewB8C0)                       |  |
