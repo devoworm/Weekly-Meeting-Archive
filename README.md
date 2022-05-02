@@ -126,3 +126,7 @@
 |        |   11 | Bradly, Dick         |  New Directions in Networks, One-cell Embryo Physics, and Jamming Phase Transitions | [YouTube](https://www.youtube.com/watch?v=V_A5qMIAwqI) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1513619419611729928)  | 
 |        |   18 | Bradly, Dick         |  Data Sources for Development, GSoC Q&A, Jamming Phase Transitions II | [YouTube](https://www.youtube.com/watch?v=AqPbktp_SFQ) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1516143852226232322)  |
 |        |   25 | Bradly, Dick         |  Multiview Imaging, GNNs, Cell tracking Methods, Metabolic and Neuronal Network Origins | [YouTube](https://www.youtube.com/watch?v=w_Vk22A1PnA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1518634280439762944)  |
+|  May   |    2 | Bradly               |  Update, Embryo Energetics, Experimental Evolution | [YouTube](https://youtu.be/6urFSUCdVVc) |         |
+
+
+
