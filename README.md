@@ -128,6 +128,8 @@
 |        |   25 | Bradly, Dick         |  Multiview Imaging, GNNs, Cell tracking Methods, Metabolic and Neuronal Network Origins | [YouTube](https://www.youtube.com/watch?v=w_Vk22A1PnA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1518634280439762944)  |
 |  May   |    2 | Bradly               |  Update, Embryo Energetics, Experimental Evolution | [YouTube](https://youtu.be/6urFSUCdVVc) |         |
 |        |    9 | Bradly, Dick, Susan, Karan      |  Sphere Contour Selection, 13 Open Problems, Cell Migration Network, Sensory Evolution | [YouTube](https://www.youtube.com/watch?v=H6HkvJcnSGI) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1523881009598578691)  |
+|        |   16 | No meeting             |                                                |                                                       |                                        |
+
 
 
 
