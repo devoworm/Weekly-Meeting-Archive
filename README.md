@@ -129,4 +129,4 @@
 |  May   |    2 | Bradly               |  Update, Embryo Energetics, Experimental Evolution | [YouTube](https://youtu.be/6urFSUCdVVc) |         |
 |        |    9 | Bradly, Dick, Susan, Karan      |  Sphere Contour Selection, 13 Open Problems, Cell Migration Network, Sensory Evolution | [YouTube](https://www.youtube.com/watch?v=H6HkvJcnSGI) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1523881009598578691)  |
 |        |   16 | No meeting             |                                                |                                                       |                                        |
-|        |   23 | Bradly, GSoC Students      |  Intro to GSoC 2022: Digital Microspheres and D-GNNs. Interfacing DevBio with Theory | [YouTube](https://www.youtube.com/watch?v=TwzwxUG7FpA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1528825731119296512))  |
+|        |   23 | Bradly, GSoC Students      |  Intro to GSoC 2022: Digital Microspheres and D-GNNs. Interfacing DevBio with Theory | [YouTube](https://www.youtube.com/watch?v=TwzwxUG7FpA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1528825731119296512)  |
