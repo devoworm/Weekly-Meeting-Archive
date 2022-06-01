@@ -131,3 +131,7 @@
 |        |   16 | No meeting             |                                                |                                                       |                                        |
 |        |   23 | Bradly, GSoC Students      |  Intro to GSoC 2022: Digital Microspheres and D-GNNs. Interfacing DevBio with Theory | [YouTube](https://www.youtube.com/watch?v=TwzwxUG7FpA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1528825731119296512)  |
 |        |   30 | Bradly, Jiahang        | DevoWorm #19: Community Period for GSoC, four GNN papers, Plasmodium collectives and soft materials                      | [YouTube](https://www.youtube.com/watch?v=2HivcExEVos) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1531498176900907008)  |
+|  June  |    6 |                |               |                     |                  |   
+|        |   13 |                |               |                     |                  |
+|        |   20 |                |               |                     |                  |
+|        |   27 |                |               |                     |                  |
