@@ -132,6 +132,6 @@
 |        |   23 | Bradly, GSoC Students      |  Intro to GSoC 2022: Digital Microspheres and D-GNNs. Interfacing DevBio with Theory | [YouTube](https://www.youtube.com/watch?v=TwzwxUG7FpA) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1528825731119296512)  |
 |        |   30 | Bradly, Jiahang        | Community Period for GSoC, four GNN papers, Plasmodium collectives and soft materials                      | [YouTube](https://www.youtube.com/watch?v=2HivcExEVos) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1531498176900907008)  |
 |  June  |    6 | Bradly, Tom, Morgan   | Community Period for GSoC, Ongoing Project Review, Body Plan Identity  |  [YouTube](https://www.youtube.com/watch?v=wkGQlwVfo84) |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1533878695970197505)               |   
-|        |   13 |                |               |                     |                  |
+|        |   13 |  Bradly, Jiahang, Karan, Harikrishna   |    Preparing for GSoC, Project Management Strategies, Cellular Modeling            |  [YouTube](https://www.youtube.com/watch?v=wefJFwGMFEk)       |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1536529239750631429)                |
 |        |   20 |                |               |                     |                  |
 |        |   27 |                |               |                     |                  |
