@@ -138,6 +138,9 @@
 |  July  |   4  | No meeting             |                                                |                                                       |                                        |
 |        |  11  | Bradly                 |   GSoC Project Updates, Issues Update, Networks as Differentiation Waves and Epithelia                 |   [YouTube](https://www.youtube.com/watch?v=HE5zw_Q9Chc)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1546532453354971137?cxt=HHwWgoCxvdHEsfYqAAAA)          |
 |        |  20  | Bradly                 |    GSoC Project Updates, Light Exposure Effects in Embryos, Push-pull Pattern Formation                |   [YouTube](https://www.youtube.com/watch?v=pwz_ES1B1fM)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1550007051312664576)          |
-|        |  25  | Bradly                 |    GSoC project updates, Systems Biology Integration, Push-pull Pattern Formation II                |   [YouTube](https://www.youtube.com/watch?v=BlBwvQkxpsk)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1551643049322856449)          |              
-
-
+|        |  25  | Bradly                 |    GSoC project updates, Systems Biology Integration, Push-pull Pattern Formation II                |   [YouTube](https://www.youtube.com/watch?v=BlBwvQkxpsk)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1551643049322856449)          |
+| August |   1  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |
+|        |   8  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |
+|        |  15  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |
+|        |  22  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |      
+|        |  29  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |      
