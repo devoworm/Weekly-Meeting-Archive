@@ -139,8 +139,8 @@
 |        |  11  | Bradly                 |   GSoC Project Updates, Issues Update, Networks as Differentiation Waves and Epithelia                 |   [YouTube](https://www.youtube.com/watch?v=HE5zw_Q9Chc)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1546532453354971137?cxt=HHwWgoCxvdHEsfYqAAAA)          |
 |        |  20  | Bradly                 |    GSoC Project Updates, Light Exposure Effects in Embryos, Push-pull Pattern Formation                |   [YouTube](https://www.youtube.com/watch?v=pwz_ES1B1fM)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1550007051312664576)          |
 |        |  25  | Bradly                 |    GSoC project updates, Systems Biology Integration, Push-pull Pattern Formation II                |   [YouTube](https://www.youtube.com/watch?v=BlBwvQkxpsk)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1551643049322856449)          |
-| August |   1  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |
-|        |   8  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |
-|        |  15  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |
+| August |   1  | Bradly                 |   GSoC project updates, Symmetries, GNNs and the Topological Analysis of Development  |   [YouTube](https://www.youtube.com/watch?v=MAe0tm8KyD8)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1554164171662663681)          |
+|        |   8  | No meeting             |                    |                |              |
+|        |  15  | Bradly                 |   Computation of Development/Regeneration in Single-Cell Models, Open-source Initiatives  |   [YouTube](https://www.youtube.com/watch?v=5pxpmCFNQOs)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1559255665620783105)          |
 |        |  22  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |      
 |        |  29  | Bradly                 |                    |   [YouTube]()             |     [Twitter]()          |      
