@@ -144,5 +144,7 @@
 |        |  15  | Bradly                 |   Computation of Development/Regeneration in Single-Cell Models, Open-source Initiatives  |   [YouTube](https://www.youtube.com/watch?v=5pxpmCFNQOs)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1559255665620783105)          |
 |        |  22  | Bradly                 |   Image transformation, tracking/force microscopy, mu-resolution, shape characterization         |   [YouTube](https://youtu.be/QhGpv_eyX7k)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1561930777616695298)          |      
 |        |  29  | Bradly, Assorted                |  Project Updates, Diatom Diversity and Modes of Movement, Push-Pull Morphogenesis III   |   [YouTube](https://youtu.be/Zsgd-mFXDek)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1564486675107028998)          |      
-| September |   5  |                  |        |   [YouTube]()             |     [Twitter]()          |
-|           |  12  |                  |        |   [YouTube]()             |     [Twitter]()          |
+| September |   5  |  Bradly, Assorted     |   Digital Bacillaria, GSoC Updates, Cell types, development, and regeneration in Axolotl   |   [YouTube](https://www.youtube.com/watch?v=sgLMOA21CYo)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1566982624316358657)          |
+|           |  12  |  Bradly, Assorted     |  Open Source, Symmetry-breaking and movement, and simulating Drosophila eye development   |   [YouTube](https://www.youtube.com/watch?v=gxEJXDshcAI)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1569381483395121152)          |
+|           |  19  |                       |              |   [YouTube]()             |     [Twitter]()          |
+|           |  26  |                       |              |   [YouTube]()             |     [Twitter]()          |
