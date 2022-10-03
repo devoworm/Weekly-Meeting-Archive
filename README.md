@@ -148,7 +148,7 @@
 |           |  12  |  Bradly, Assorted     |  Open Source, Symmetry-breaking and movement, and simulating Drosophila eye development   |   [YouTube](https://www.youtube.com/watch?v=gxEJXDshcAI)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1569381483395121152)          |
 |           |  19  |  Bradly, Alon         |   Diatom movement tracking, DDEs, inheritance and morphogenesis in _C. elegans_      |   [YouTube](https://www.youtube.com/watch?v=exjU_yw-_H0)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1572016766678716416)          |
 |           |  26  |  Bradly               |   Project updates (Cancer Imaging, DevoLearn), _C. elegans_ synapse and neuronal diversity  |   [YouTube](https://www.youtube.com/watch?v=Q4t00gi6JQo)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1574472065079738368)          |
-| October   |   3  |       |      |                |              |
+| October   |   3  |  Dick, Bradly         |  Differentiation waves, Janus-faced logic, mitochondrial networks, energetic dynamics    |  [YouTube](https://youtu.be/KSs-W08a_Hg)         |    [Twitter](https://twitter.com/Orthogonal_Lab/status/1577022660264878080)              |
 |           |  10  |       |      |                |              |
 |           |  17  |       |      |                |              |
 |           |  24  |       |      |                |              |
