@@ -152,5 +152,5 @@
 |           |  10  |  Bradly, Assorted     |    Diatom Dynamics, Biological Tensegrity, Nervous System Structurogenesis in Organoids   |   [YouTube](https://www.youtube.com/watch?v=w71OOi5GHV4)       |   [Twitter](https://twitter.com/Orthogonal_Lab/status/1579554329199267840)             |
 |           |  17  |   Bradly, Alon        |   _C. elegans_ multimodal integration/push-pull morphogenesis, shape and differentiation      |   [YouTube](https://youtu.be/CJ_UzZJYAmc)             |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1582063434950402048)            |
 |           |  24  |   Bradly              |  Why no Lamarckism? Physics/shape in cell systems, Minimal cells, Light field imaging      |    [YouTube](https://youtu.be/CJ_UzZJYAmc)             |     [Twitter](https://twitter.com/Orthogonal_Lab/status/1584767069819924480)         |
-|           |  31  |                       |        |                |             |
+|           |  31  |   Assorted            |  Breast Cancer Physics, Composing Braitenberg Vehicles, Simulating Tensegrity      |   [YouTube](https://youtu.be/L6aLCeWxVBQ)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1587141706880880641)            |
 
