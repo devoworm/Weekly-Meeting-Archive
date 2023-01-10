@@ -2,7 +2,7 @@
 
 | Month        |        | Meeting Presenters  |   Topic                      |                      Content                                   |  |
 |--------------|--------|-------------|-------------------------|---------------------------------------------------------|--|
-| 2020         |        |             |                         |                                                         |  |
+| <b>2020</b>         |        |             |                         |                                                         |  |
 | January      | 13     |   Bradly    | 2019 Recap and Planning |	[YouTube](https://www.youtube.com/watch?v=6vHxIQdBf7I)	|  |
 |	       | 20	|   Susan     | Hydraulic Fracturing of Embryos |	[YouTube](https://youtu.be/qx6rrNGyagc)	        |  |
 |	       | 27	| Devansh and Yash |	DL Architectures          | [YouTube](https://www.youtube.com/watch?v=E71-1tQ-iDU) 	|   |
@@ -55,7 +55,7 @@
 | 	       | 14	| Bradly	      | Input Data, Physics of Cell Temporality	 | [YouTube](https://www.youtube.com/watch?v=zuvJfszId4E&feature=emb_logo) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1338708996992233473) |
 |              | 21	| Bradly, Dick, Ujjwal | Physics, Embryos, and Evolution; DevoLearn | [YouTube](https://youtu.be/3Xb6gl5CtYg) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1341069445737922561) |
 |	       | 28	|                      | Happy Holidays!                          |     |     |			
-| 2021	       |        |                      |                                          |     |     |				
+| <b>2021</b>	       |        |                      |                                          |     |     |				
 | January      |  4	|                      | Happy Holidays!                          |	|     |
 |              | 11	| Bradly, Susan	       | 2020 Review, GSoC 2021 planning, and First Embryos/Molecular Condensates | [YouTube](https://www.youtube.com/watch?v=6Egcm1R7Vb4&feature=emb_logo) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1348687359227924487) |
 |	       | 18	| Bradly, Susan, Krishna | 2021 Submission Planning, Devo-ML, Physics and Geometry of Life | [YouTube](	https://www.youtube.com/watch?v=apBgojl_3SI&feature=youtu.be) |	[Twitter](https://twitter.com/Orthogonal_Lab/status/1351223218170974215) |
@@ -108,7 +108,7 @@
 |	       |  13	| Susan, Bradly	               | Soft Active Materials, Liquid Crystal Bio III, Biological Intelligence	| [YouTube](https://www.youtube.com/watch?v=A_YwaTYuLck) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1470654288007421955) |
 |	       |  20	|                              | Happy Holidays!	       |                  |          |        		
 |	       |  27	|                              | Happy Holidays!	       |                  |          |		
-| 2022	       |	|                              |                               |                  |          |		
+| <b>2022</b>	       |	|                              |                               |                  |          |		
 | January      |   3	|                              | Happy Holidays!               |                  |          |			
 |              |  10	| Bradly	               | Looking forward, Lab Preprints, 3-D microscopy, and Soft Biomaterials | [YouTube](https://www.youtube.com/watch?v=R3u8enisFzI) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1480661062471069699) |
 |	       |  17	| Tom, Bradly, Dick	       | Life to the Stars, 1-D Ising models and Mollusk shells, Stochastic Bio	 | [YouTube](https://www.youtube.com/watch?v=GYXXk2zUdy8) | [Twitter](https://twitter.com/Orthogonal_Lab/status/1483168115924025349) |
@@ -161,7 +161,7 @@
 |           |  12   |                    |  [Learning on Graphs (LoG)](https://www.youtube.com/@learningongraphs) , [MeMoDevo](https://neuroanatomy.github.io/MeMoDEvo/)                                                                           |             |  
 |           |  19   |  Susan, Bradly     |  Workshop(s) recap/updates, Sodaplay tensegrity, Morphogenetic Tug of Wars and Locks                                                           |   [YouTube](https://youtu.be/5LCEXJ3B3Kw)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1604954031117553665)                 |
 |           |  26   |                     |   Happy Holidays!                                                        |              |                   |
-| 2023      |       |                     |                                                                          |             |                 |
+| <b>2023</b>      |       |                     |                                                                          |             |                 |
 | January   |  2    |                     |  Happy Holidays!                                                         |             |                 |
 |           |  9    |  Susan, Bradly     |  (Bio)tensegrity prism networks, D-GNNs and DevoGraph, Self-organizing biophysics                  |   [YouTube](https://youtu.be/e0MSVVaokZc)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1612691325538779136)                 |
 
