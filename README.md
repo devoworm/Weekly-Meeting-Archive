@@ -164,5 +164,4 @@
 | <b>2023</b>      |       |                     |                                                                          |             |                 |
 | January   |  2    |                     |  Happy Holidays!                                                         |             |                 |
 |           |  9    |  Susan, Bradly     |  (Bio)tensegrity prism networks, D-GNNs and DevoGraph, Self-organizing biophysics                  |   [YouTube](https://youtu.be/e0MSVVaokZc)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1612691325538779136)                 |
-
-
+|           |  16    |  Susan, Bradly     |  DevoLearn/DevoGraph open-source, Particle Lenia and cell-cell interactions                  |   [YouTube](https://www.youtube.com/watch?v=-Btume_upyI)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1615057898958163983)                 |
