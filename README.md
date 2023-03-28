@@ -174,5 +174,6 @@
 |  March    |   6    |  Sushmanth, Bradly   |   GSoC, Origins of the Embryos, Alternative Histories, Swarms and Microswimmers        |   [YouTube](https://youtu.be/78wtl-kjLps)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1632831996115185671)                 |
 |           |  13    |  Sushmanth, Bradly   |   DevoLearn roadmap, GSoC, local/global ABMs, analyzing butterfly wings       |   [YouTube](https://youtu.be/Re8D5uZf5sU)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1635429476438818818)                 |
 |           |  20    |  Sushmanth, Bradly   |   Physical Modeling, GSoC, Digits in vitro, Curvatures and Condensates       |   [YouTube](https://youtu.be/8yIN8vrOiFM)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1639138287389495299)                 |
+|           |  27    |  Sushmanth, Susan, Bradly   |   DevoLearn docs, Multiphysics, Bio + Physics, Morphogenetic Curvatures       |   [YouTube](https://youtu.be/hVRbSa9XmRg)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1640424121040289806)                 |
 
 
