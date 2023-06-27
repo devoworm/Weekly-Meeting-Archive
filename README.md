@@ -187,3 +187,5 @@
 |   June    |   3    |  Bradly, Sushmanth, Himanshu  |   GSoC Updates, R-D Morphogenesis, Particle Lenia, Game of Life and CAs      |   [YouTube](https://youtu.be/JFLma6xDxT8)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1665965873478217729)                 |
 |           |   12   |  Bradly, Sushmanth, Himanshu  |   DevoWorm DL, Synthetic Cells, Digital Collectives and Pattern Formation      |   [YouTube](https://youtu.be/gvvOYEmXReE)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1668426812962099201)                 |
 |           |   19   |  Bradly, Sushmanth, Jiahang  |    Towards a biological embryo model, GSoC, TDA/GNNs and Embryo Networks     |   [YouTube](https://youtu.be/fRZKi7LPdIk)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1670842863754657815)                 |
+|           |   26   |  Bradly, Sushmanth           |    SAM and MedSAM, making monkey embryoids in culture, shear jamming 
+            |   [YouTube](https://youtu.be/gWle22yGwMo)            |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1673395790356570112)                 |
