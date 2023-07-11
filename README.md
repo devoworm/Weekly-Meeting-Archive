@@ -190,7 +190,6 @@
 |           |   26   |  Bradly, Sushmanth           |    SAM and MedSAM, making monkey embryoids in culture, shear jamming 
             |   [YouTube](https://youtu.be/gWle22yGwMo)            |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1673395790356570112)                 |
 |   July    |   3    |  Assorted                    |   GSoC Updates, R-D Morphogenesis, Particle Lenia, Game of Life and CAs      |   [YouTube](https://youtu.be/DpZN2DC2VgE)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1676098390625509376)                 |
+|           |  10    |  Bradly                    |   Genomics of Differentiation, Thompsonian Grid Divergence, DevoGraphing       |   [YouTube](https://youtu.be/TMm59PvpDho)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1678566470878392320)                 |
 
 
-
-https://youtu.be/DpZN2DC2VgE
