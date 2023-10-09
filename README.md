@@ -202,3 +202,4 @@
 |               |  18     |                     |   No meeting                                                        |              |                   |
 |               |  25     |  Bradly, Sushmanth      |   Hacktoberfest plans, Enumerating human cell types, Morphogenetic flows           |   [YouTube](https://youtu.be/lIztjgfpBFo)                   |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1706486024573009980)                 |
 |   October     |   2     |  Bradly, Sushmanth      |   DevoLearn Hacktober, Basal Cognition, Physiomics via Multiphysics      |   [YouTube](https://youtu.be/3_2zwaZi-rk)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1709101354302554409)                 |
+|               |   9     |                         |   Happy Indigenous People's Day!                                         |              |                   |
