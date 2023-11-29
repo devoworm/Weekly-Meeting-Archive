@@ -209,5 +209,5 @@
 |               |  30     |  Bradly                 |   Liquid Crystal Epithelia, Complexity, and Configurational Modeling   |   [YouTube](https://youtu.be/qeh5QNuebaQ)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1719244238783713382)                 |
 |   November    |   6     |                         |   No meeting                                                             |           |                |
 |               |  13     |  Bradly, Susan, Morgan  |   DevoPhysical Modeling, Apical Constriction,  A Theory of Plasticity    |   [YouTube](https://youtu.be/SvTnxQP6qJs)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1724183320932581531)             | 
-|               |  20     |                         |   OpenWorm Annual Meeting    |           |              | 
+|               |  20     |                         |   OpenWorm Annual Meeting    |   [YouTube](https://youtu.be/Y087QjeqIHg)         |                   | 
 |               |  27     |  Bradly, Susan          |   Morphogenetic Physics, Modeling the Nucleus    |   [YouTube](https://youtu.be/exvr3oiqUaw?si=x3nUeNu5kTaGjPkX)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1729575850549387758)             | 
