@@ -213,3 +213,6 @@
 |               |  27     |  Bradly, Susan          |   Morphogenetic Physics, Modeling the Nucleus    |   [YouTube](https://youtu.be/exvr3oiqUaw?si=x3nUeNu5kTaGjPkX)           |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1729575850549387758)             | 
 |   December    |   4     |  Bradly                 |   Hypergraphs in Development, Morphogenetic Complexity, Morphogens       |   [YouTube](https://youtu.be/QPdJLCR5z8Y?si=8EIgIvQ4DF27WqEF)       |  [Twitter](https://twitter.com/Orthogonal_Lab/status/1731757302636572822)       |
 |               |   11    |  Bradly                 |   ABM/RL for embryos, Force maps and virtual embryos, 1st-mover dynamics        |   [YouTube](https://youtu.be/X9iAuNIjx60)       |  [Mastodon](https://neuromatch.social/@OREL/111563858941456419)       |
+|               |   18    |                         |                                                                                 |   [YouTube](---)       |  [Mastodon](---)       |
+|               |   25    |                         |   Happy Holidays!                                                                            |                        |                        |
+| <b>2024</b>      |       |                     |                                                                          |             |                 |
