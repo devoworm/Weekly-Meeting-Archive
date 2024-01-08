@@ -216,3 +216,4 @@
 |               |   18    |  Bradly, Dick, Morgan   |   Cell Atlases, Differentiation Trees: Brain, EIT Developmental Imaging         |   [YouTube](https://youtu.be/6lTvi5Oh4T8)       |  [Mastodon](https://neuromatch.social/@OREL/111603302905578059)       |
 |               |   25    |                         |   Happy Holidays!                                                                            |                        |                        |
 | <b>2024</b>      |       |                     |                                                                          |             |                 |
+|   January     |   8     |  Bradly, Vahid          |   Biophysics collaborations, Cell Censuses, the Edge of Biological Chaos      |   [YouTube](https://youtu.be/y_4swi1DLS0)       |  [Mastodon](https://neuromatch.social/@OREL/111722522564527767)       |
