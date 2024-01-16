@@ -217,3 +217,4 @@
 |               |   25    |                         |   Happy Holidays!                                                                            |                        |                        |
 | <b>2024</b>      |       |                     |                                                                          |             |                 |
 |   January     |   8     |  Bradly, Vahid          |   Biophysics collaborations, Cell Censuses, the Edge of Biological Chaos      |   [YouTube](https://youtu.be/y_4swi1DLS0)       |  [Mastodon](https://neuromatch.social/@OREL/111722522564527767)       |
+|               |   15    |  Bradly,Dick, Vahid     |   Ray Generation, Developmental ANNs, and Canalization Functions      |   [YouTube](https://youtu.be/oTbNKT62GrA?si=AmEu42c-1CtjSGig)       |  [Mastodon](https://neuromatch.social/@OREL/111762294219737311)       |
