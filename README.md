@@ -240,4 +240,4 @@
 |   June         |    3    |   Mehul, Hussain, Bradly   |   Graphs for Development, Cancer Physics, Limits of Biomolecular Simulation      |   [YouTube](https://youtu.be/Q2aUDpmfG_o)      |   [Mastodon](https://neuromatch.social/@OREL/112556051427369635)                                       |
 |                |   10    |   Pakhi, Bradly          |    Open-source Biophysics, NDPs and _C. elegans_, language models and gene function      |   [YouTube](https://youtu.be/EOIQlDUf6Xc)      |   [Mastodon](https://neuromatch.social/@OREL/112594568491420473)                                       |
 |                |   17    |   Pakhi, Bradly          |    Exploring a larval _C. elegans_ dataset, cell cycle and ciliated morphogenesis      |   [YouTube](https://youtu.be/_R-G3B6pD30)      |   [Mastodon](https://neuromatch.social/@OREL/112633421437095913)                                    |
-
+|                |   24    |                          |                                                                                        |   [YouTube](---)      |   [Mastodon](---)                                    |
