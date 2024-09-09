@@ -250,3 +250,8 @@
 |                |   12    |   Bradly          |     NDP-D-GNNs, Biophysical Modeling, Developmental Connectomes     |   [YouTube](https://youtu.be/aIbfHtXyFGE?si=UVoIyWguBA6zfKjR)      |   [Mastodon](https://neuromatch.social/@OREL/112950408947072338)                                     |
 |                |   19    |   Bradly, Mehul          |    Hypernetwork connectivity, subnetwork structure, topological separation (cuts)    |   [YouTube](https://youtu.be/DJ-DyL7wbDI?si=FGIWNA1jooGpXDJA)      |   [Mastodon](https://neuromatch.social/@OREL/112991278392742747)                                     |
 |                |   26    |   Bradly, Mehul          |    Node-layer duality, Physically-interacting cells, Interactomes in C. elegans     |   [YouTube](https://www.youtube.com/watch?v=rlWaiFGD0l8)      |   [Mastodon](https://neuromatch.social/@OREL/113032188525201946)                                     |
+|   September    |    2    |   Bradly                 |   DevoWorm Update                |   [YouTube](---)      |   [Mastodon](---)                                       |
+|                |    9    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
+|                |   16    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
+|                |   23    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
+|                |   30    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
