@@ -251,7 +251,7 @@
 |                |   19    |   Bradly, Mehul          |    Hypernetwork connectivity, subnetwork structure, topological separation (cuts)    |   [YouTube](https://youtu.be/DJ-DyL7wbDI?si=FGIWNA1jooGpXDJA)      |   [Mastodon](https://neuromatch.social/@OREL/112991278392742747)                                     |
 |                |   26    |   Bradly, Mehul          |    Node-layer duality, Physically-interacting cells, Interactomes in C. elegans     |   [YouTube](https://www.youtube.com/watch?v=rlWaiFGD0l8)      |   [Mastodon](https://neuromatch.social/@OREL/113032188525201946)                                     |
 |   September    |    2    |   Bradly                 |   DevoWorm Update                |   [YouTube](---)      |   [Mastodon](---)                                       |
-|                |    9    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
-|                |   16    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
+|                |    9    |         |    No meeting            |         |                                    |
+|                |   16    |   Bradly, Pakhi       |   Finishing GSoC, Developmental theory (comparative approaches and limits)              |   [YouTube](https://youtu.be/6ipSZlMKmG0)      |   [Mastodon](https://neuromatch.social/@OREL/113148411125587130)                                    |
 |                |   23    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
 |                |   30    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
