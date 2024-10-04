@@ -254,4 +254,4 @@
 |                |    9    |         |    No meeting            |         |                                    |
 |                |   16    |   Bradly, Pakhi       |   Finishing GSoC, Developmental theory (comparative approaches and limits)              |   [YouTube](https://youtu.be/6ipSZlMKmG0)      |   [Mastodon](https://neuromatch.social/@OREL/113148411125587130)                                    |
 |                |   23    |   Assorted      |    Growing Networks, Hypernetworks, Tensegrity/Multiphysics, AI for Cell Modeling             |   [YouTube](https://youtu.be/u6gCJgdS2bM)      |   [Mastodon](https://neuromatch.social/@OREL/113190585627006907)                                    |
-|                |   30    |         |                |   [YouTube](---)      |   [Mastodon](---)                                    |
+|                |   30    |   Bradly        |   C. elegans Neurophysiological tradeoffs, E.coli and Single-cell Psychophysics              |   [YouTube](https://youtu.be/ylWqMS4WbWc?si=KS3ip60jQZ_3tzjs)      |   [Mastodon](https://neuromatch.social/@OREL/113241146290837434)                                    |
