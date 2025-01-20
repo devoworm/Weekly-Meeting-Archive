@@ -272,4 +272,4 @@
 | <b>2025</b>      |       |                     |                                                                          |             |                 |
 |   January     |   6     |  Bradly               |   [1]  Epithelial quasi-tensegrity, robustness and nonlinearity in cell asymmetry    |   [YouTube](https://youtu.be/7i_LcXhrQCk)       |  [Mastodon](https://neuromatch.social/@OREL/113782828076784289)       |
 |            |   13     |  Bradly               |   [2]  Developmental Hypergraphs, BAAI Worm (Brain-Body-Environment    |   [YouTube](https://www.youtube.com/watch?v=0e6xJM9n-QM&pp=ygUIZGV2b3dvcm0%3D)       |  [Mastodon](https://neuromatch.social/@OREL/113822592250638475)       |
-
+|            |   20     |  Bradly               |   [3]  Parallel Network Structure in _C. elegans_ Connectome, Benchmarking _C. elegans_    |   [YouTube](https://www.youtube.com/watch?v=mJgvYjC5NAs)       |  [Mastodon](https://neuromatch.social/@OREL/113861971604541780)       |
