@@ -281,5 +281,4 @@
 |   March     |   3      |  Bradly               |   [[9](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2025%2C%209.md)]  TopoNets(Structure in ANNs), Synchrotron Imaging in Molluscs     |   [YouTube](https://youtu.be/UdQ4-1cPpFk)       |  [Mastodon](https://neuromatch.social/@OREL/114099796905345285)        |
 |             |   10      |  Bradly               |   [[10](https://github.com/devoworm/Weekly-Meeting-Archive/tree/main/TRANSCRIPTS)]   Convergent Evo-Devo (carcinization), Vertex Biology/Tri-junctions, DevoGraph    |   [YouTube](https://www.youtube.com/watch?v=RaazOLUR5WQ)       |  [Mastodon](https://neuromatch.social/@OREL/114139321353377937)       |
 |             |   17      |  Bradly, Assorted     |   [[11](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2025%2C%2011.md)]    Synticial Biophysics, Visualizing Developmental Graphs, Cybernetic Flocks    |   [YouTube](https://youtu.be/lqqF812qph0)       |  [Mastodon](https://neuromatch.social/@OREL/114178839354127160)       |
-
-
+|             |   24      |          |    No meeting            |         |                                    |
