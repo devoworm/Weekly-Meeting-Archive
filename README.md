@@ -283,3 +283,6 @@
 |             |   17      |  Bradly, Assorted     |   [[11](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2025%2C%2011.md)]    Synticial Biophysics, Visualizing Developmental Graphs, Cybernetic Flocks    |   [YouTube](https://youtu.be/lqqF812qph0)       |  [Mastodon](https://neuromatch.social/@OREL/114178839354127160)       |
 |             |   24      |          |    No meeting            |         |                                    |
 |             |   31      |  Jayadratha, Lalith, Mehul, Soham     |   [[12](https://github.com/devoworm/Weekly-Meeting-Archive/blob/479b7cad90bceaf19403ca2e667c330a66ccde2f/TRANSCRIPTS/2025%2C%2012)]    Discrete and Continuous Hypergraphs, 4-D Hypergraphs, Visualizing Hypergraphs    |   [YouTube](https://www.youtube.com/watch?v=STl0qbB9WD4)       |  [Mastodon](https://neuromatch.social/@OREL/114258196621433342)       |
+|   April     |    7      |  Bradly               |   [[13](---)]  Biophysical Size Limits to the Cell, Tissue-like Structures in Archaebacteria      |   [YouTube](https://youtu.be/UdQ4-1cPpFk)       |  [Mastodon](https://neuromatch.social/@OREL/114099796905345285)        |
+
+https://youtu.be/JU0Ehe-dOa8?si=SnVIO_33Va_hU29X
