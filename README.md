@@ -296,3 +296,4 @@
 |              |   16     |                  |   No meeting       |                                             |                                                            |
 |              |   23     |  Bradly               |   [[21](https://youtu.be/tM9Xy20kGeQ)] Lineage/Differentiation Codes, Vasculogenesis, Tissue Engineering + Evolution       |   [YouTube](https://youtu.be/tM9Xy20kGeQ)       |  [Mastodon](https://neuromatch.social/@OREL/114734029661364135)        |
 |              |   30     |                  |   [25th International Worm Meeting](https://genetics-gsa.org/worm-2025/)      |             |             |
+|   July       |    7     |  Bradly, Lalith, Dick   |   [[22]()]  Reticulating Lineage Trees/Hypergraphs, C. elegans Syncytium, Nematic Order      |   [YouTube](https://youtu.be/IV69VDJ3Fmc)       |  [Mastodon](https://neuromatch.social/@OREL/114813901994679636)        |
