@@ -306,3 +306,5 @@
 |              |   25     |                       |   No meeting       |            |
 |  September   |    1     |  Bradly               |   [[29](https://github.com/devoworm/Weekly-Meeting-Archive/tree/main/TRANSCRIPTS)]  Completion of GSoC and towards a Neurite-based Developmental Connectome       |   [YouTube](https://youtu.be/uBQFWiZOxKY)      |  [Mastodon](https://neuromatch.social/@OREL/115130160412750720)        |
 |  September   |    8     |  Bradly               |   [[30](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2025%2C%2030.md)]  Mathematical Modeling of Cell Deformation, Biotensegrity and Superstability       |   [YouTube](https://youtu.be/dJfRMmN_NWU)      |  [Mastodon](https://neuromatch.social/@OREL/115169846434764959)        |
+|              |    15    |  Bradly               |   [[30]()]  Multiphysics for Organogenesis, Phase Transitions for Information Processing       |   [YouTube](https://youtu.be/_v4bv4Q_TxI)      |  [Mastodon](https://neuromatch.social/@OREL/115209650356665732)        |
+
