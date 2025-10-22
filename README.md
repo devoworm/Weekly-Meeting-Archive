@@ -311,4 +311,4 @@
 |              |    29    |                  |   No meeting       |                                             |                                                         |
 |   October    |     6     |                       |   [Artificial Life (Alife) 2025](https://2025.alife.org/)       |            |
 |              |    13     |  Bradly               |   [[33](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2025%2C%2033.md)]  Overview of Alife 2025, Biophysics of Vortices and Microorganismal Motility       |   [YouTube](https://youtu.be/MQciR9jK8ZA)      |  [Mastodon](https://neuromatch.social/@OREL/115367955055393484)        |
-
+|              |    20     |  Bradly, Susan        |   [[34](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2025%2C%2034.md)]    A Model of Biotensegrity Networks, Game Dynamics from "Laws of the Game"        |   [YouTube](https://youtu.be/9I2bSfWc6nw?si=xRs2wU5-A-5mFn1t)      |  [Mastodon](https://neuromatch.social/@OREL/115410146803759271)        |
