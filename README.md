@@ -319,4 +319,4 @@
 |              |    24     |  Bradly               |   [[39](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2025%2C%2039.md)]   Art of the Soluable and D'Arcy Thompson (history of physical development        |   [YouTube](https://www.youtube.com/watch?v=yPhj8WeZb90)      |  [Mastodon](https://neuromatch.social/@OREL/115606532853274375)        |
 |  December   |      1     |  Bradly               |   [[40](---)]   The power of a good model organism and community involvement (_C. elegans_)       |   [YouTube](https://youtu.be/pnEyRuwVO2M)       |  [Mastodon](https://neuromatch.social/@OREL/115645560503466839)        |
 |             |      6     |                       |   [Complex Networks 2025](https://complexnetworks.org/)       |            |
-|  December   |      15     |  Bradly               |   [[41](---)]          |   [YouTube](---)       |  [Mastodon](---)        |
+|             |     15     |  Bradly               |   [[41](---)]          |   [YouTube](---)       |  [Mastodon](---)        |
