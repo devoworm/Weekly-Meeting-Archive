@@ -321,5 +321,6 @@
 |             |      6     |                       |   [Complex Networks 2025](https://complexnetworks.org/)       |            |
 |             |     15     |  Bradly               |   [[41](---)]   Developmental Dynamics: cell differentiation and oscillatory entrainment       |   [YouTube](https://youtu.be/jtaRFmlcevg)       |  [Mastodon](https://neuromatch.social/@OREL/115724968534515996)        |
 |             |     22     |  Bradly               |   [[42](---)]   Neural architectures on curved, folded, and layered sheets without development       |   [YouTube](https://youtu.be/gG-H4dX95zo)       |  [Mastodon](https://neuromatch.social/@OREL/115764591605777452)        |
+|             |     29    |                |    Happy Holidays!              |                       |                                                    |
 
 
