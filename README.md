@@ -325,5 +325,5 @@
 | <b>2026</b>      |       |                     |            
 |   January   |      5     |  Bradly               |   [[1](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%201.md)]     A New Year, Neutral Theory and Function Concepts, Multiphysics and Materials        |   [YouTube](https://www.youtube.com/watch?v=PxpMp5UrkAk)       |  [Mastodon](https://neuromatch.social/@OREL/115846775986165815)        |
 |             |     12     |  Bradly              |   [[2](---)]     Tensegrity constraints and form finding methods, applications to soft systems        |   [YouTube](https://youtu.be/3CZUZt2_Acs)       |  [Mastodon](https://neuromatch.social/@OREL/115886682164436921)        |
-
+|             |     19     |  Susan, Shreyas, Barshan         |   [[3](---)]             |   [YouTube](https://www.youtube.com/watch?v=zMbSzsS9t98)    Biotensegrities, Eigenmovements (Markovian), and Dynamical Connectomes (ODEs)   |  [Mastodon](https://neuromatch.social/@OREL/115923216197179006)        |
 
