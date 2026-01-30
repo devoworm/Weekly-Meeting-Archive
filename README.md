@@ -326,4 +326,8 @@
 |   January   |      5     |  Bradly               |   [[1](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%201.md)]     A New Year, Neutral Theory and Function Concepts, Multiphysics and Materials        |   [YouTube](https://www.youtube.com/watch?v=PxpMp5UrkAk)       |  [Mastodon](https://neuromatch.social/@OREL/115846775986165815)        |
 |             |     12     |  Bradly              |   [[2](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%202.md)]     Tensegrity constraints and form finding methods, applications to soft systems        |   [YouTube](https://youtu.be/3CZUZt2_Acs)       |  [Mastodon](https://neuromatch.social/@OREL/115886682164436921)        |
 |             |     19     |  Susan, Shreyas, Barshan         |   [[3](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%203.md)]     Biotensegrities, Eigenmovements (Markovian), and Dynamical Connectomes (ODEs)         |   [YouTube](https://www.youtube.com/watch?v=zMbSzsS9t98)    |  [Mastodon](https://neuromatch.social/@OREL/115923216197179006)        |
+|             |     26     |  Susan, Barshan         |   [[4](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%204.md)]     Microgravity Effects on the Cell, Eigenvalues of Cell Motility, Condensates         |   [YouTube](https://youtu.be/-m0qovQaMuc?si=blBKbtPHn0iOx2qG)    |  [Mastodon](https://neuromatch.social/@OREL/115965187635984951)        |
+
+
+
 
