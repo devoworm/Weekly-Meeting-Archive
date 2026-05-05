@@ -340,4 +340,4 @@
 |              |     13     |  Bradly, Utkarsh,  Barshan        |   [[14](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026,%2014.md)]   Developmental Connectome Modeling, Contraction Waves in Insect Embryos          |   [YouTube](https://youtu.be/RRkMTFkrTHE)      |  [Mastodon](---)         |
 |              |     20     |  Bradly, Ashu, Utkarsh,  Barshan        |   [[15](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%2015.md)]   New Secondary Datasets, Spatiotemporal Modeling of _C. elegans_          |   [YouTube](https://youtu.be/Ln5ErTJ-U1M)      |  [Mastodon](---)         |
 |              |     27     |  Bradly, Shreyas        |   [[16](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%2016.md)]  Game Theory, Controllability, Behavior Selection Pipeline, Active Materials          |   [YouTube](https://www.youtube.com/watch?v=wjIH0GxJTPs)      |  [Mastodon](---)         |
-|     May      |     4      |  No Meeting        |             |         |          |
+|     May      |     4      |                      |  No Meeting           |         |          |
