@@ -344,3 +344,9 @@
 |              |    11      |             |  [First 2026 Open-source meeting (OREL)](https://youtu.be/awU2yWLe-V0)   |         |          |
 |              |    18      |  Bradly, Mehul, Morgan    |   [[17](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%2017.md)]  OpenWorm future states, ClawRxiv Peer Review, Intelligent Active Materials          |   [YouTube](https://www.youtube.com/watch?v=eWCl8o31ktc)      |  [Mastodon](https://neuromatch.social/@OREL/116596785244682728)         |
 |              |    25      |  Bradly                   |   [[18](https://github.com/devoworm/Weekly-Meeting-Archive/blob/main/TRANSCRIPTS/2026%2C%2018.md)]  Cell-centric Biology, Top-down Perspectives                  |   [YouTube](https://youtu.be/1vz_9NG_ZcE)      |  [Mastodon](https://neuromatch.social/@OREL/116636477219438084)         |
+|      June    |     1      |  Bradly                   |   [[19](---)]   NetSci2026, Neuromuscular Modeling and RL Policies for Curriculum Learning                 |   [YouTube](https://youtu.be/IjSCtmgXJ_U)      |  [Mastodon](-----)         |
+|              |     8      |  Bradly                   |   [[20](---)]    Theory, Biology, and Physics, towards bio-universals, Self-improving agents                |   [YouTube](https://youtu.be/9twi38tO0vU)      |  [Mastodon](-----)         |
+
+
+
+NetSci2026, Neuromuscular Modeling and RL Policies for Curriculum Learning
